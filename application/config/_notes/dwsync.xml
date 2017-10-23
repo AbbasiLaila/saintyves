@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="config.php" server="ftp.media-clouds.net" local="131089990842779823" remote="131089630800000000" Dst="2" />
+<file name="database.php" server="ftp.media-clouds.net" local="131089991693726522" remote="131089631400000000" Dst="2" />
+<file name="routes.php" server="ftp.media-clouds.net" local="131113186200000000" remote="131113186200000000" Dst="2" />
+<file name="autoload.php" server="ftp.media-clouds.net" local="131135681699954925" remote="131089621200000000" Dst="2" />
+<file name="doctypes.php" server="ftp.media-clouds.net" local="131135681703171914" remote="131089621800000000" Dst="2" />
+<file name="foreign_chars.php" server="ftp.media-clouds.net" local="131135681705419949" remote="131089621800000000" Dst="2" />
+<file name="constants.php" server="ftp.media-clouds.net" local="131135681705732464" remote="131089621800000000" Dst="2" />
+<file name="hooks.php" server="ftp.media-clouds.net" local="131135681707607264" remote="131089621800000000" Dst="2" />
+<file name="index.html" server="ftp.media-clouds.net" local="131135681709728734" remote="131089621800000000" Dst="2" />
+<file name="ion_auth.php" server="ftp.media-clouds.net" local="131135681709884920" remote="131089621800000000" Dst="2" />
+<file name="memcached.php" server="ftp.media-clouds.net" local="131135681711942030" remote="131089621800000000" Dst="2" />
+<file name="migration.php" server="ftp.media-clouds.net" local="131135681713839748" remote="131089621800000000" Dst="2" />
+<file name="mimes.php" server="ftp.media-clouds.net" local="131135681714234462" remote="131089621800000000" Dst="2" />
+<file name="profiler.php" server="ftp.media-clouds.net" local="131135681716204190" remote="131089621800000000" Dst="2" />
+<file name="smileys.php" server="ftp.media-clouds.net" local="131135681718079369" remote="131089621800000000" Dst="2" />
+<file name="user_agents.php" server="ftp.media-clouds.net" local="131135681719285527" remote="131089621800000000" Dst="2" />
+</dwsync>

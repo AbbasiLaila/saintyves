@@ -1,0 +1,12 @@
+<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed'); 
+$lang['about'] = 'من نحن';
+$lang['news'] = 'الأخبار';
+$lang['ourWork'] = 'معرض الأعمال';
+$lang['publications'] = 'المنشورات';
+$lang['donors'] = 'المتبرعون';
+$lang['gallery'] = 'معرض الصور';
+$lang['faq'] = 'الأسئلة الشائعة';
+$lang['contact'] = 'تواصل نعنا';
+$lang['readMore'] = 'المزيد';
+$lang['Jerusalem Office'] = 'القدس';
+$lang['Bethlehem Office'] = 'بيت لحم';
